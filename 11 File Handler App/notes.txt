@@ -1,0 +1,4 @@
+I am learning Python.
+Python is awesome!
+I am getting better at Python.
+A new note
